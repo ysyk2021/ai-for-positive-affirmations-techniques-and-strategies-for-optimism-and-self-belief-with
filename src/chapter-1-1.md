@@ -1,5 +1,3 @@
-Understanding the Role of AI in Positive Psychology
-============================================================================================================
 
 Positive psychology is a branch of psychology that focuses on promoting positive emotions, relationships, and experiences. With the rise of artificial intelligence (AI) technology, there has been a growing interest in the role of AI in positive psychology, particularly in the area of positive affirmations.
 

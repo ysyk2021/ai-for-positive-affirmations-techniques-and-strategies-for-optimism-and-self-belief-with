@@ -1,5 +1,3 @@
-Automated Goal-Setting and Progress Monitoring using AI
-===============================================================================================================================
 
 Positive affirmations are most effective when practiced consistently over time. However, forming new habits can be challenging for many individuals. In this chapter, we'll explore how AI technology can streamline the process of forming positive habits by automating goal-setting and progress monitoring.
 

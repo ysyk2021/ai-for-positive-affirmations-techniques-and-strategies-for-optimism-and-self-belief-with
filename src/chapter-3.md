@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Personalized Affirmations and Gratitude Practices
-===============================================================================
 
 Personalized affirmations and gratitude practices are powerful techniques for cultivating an optimistic outlook on life. In this chapter, we'll explore how to implement AI in personalized affirmations and gratitude practices.
 

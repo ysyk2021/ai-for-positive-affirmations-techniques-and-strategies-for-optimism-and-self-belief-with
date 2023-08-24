@@ -1,5 +1,3 @@
-AI-Driven Positive Habits Formation and Tracking Assistance
-===================================================================================================================================
 
 Forming positive habits is key to achieving personal and professional goals. In this chapter, we'll explore how AI can help individuals form positive habits more efficiently by providing assistance in habit formation and tracking.
 
