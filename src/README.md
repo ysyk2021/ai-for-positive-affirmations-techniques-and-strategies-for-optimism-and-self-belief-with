@@ -8,3 +8,7 @@ From mindfulness and meditation practices to gratitude exercises, visualization 
 So, let's dive in and discover the exciting world of AI for positive affirmations. By learning how to use technology to create powerful affirmations that align with your unique needs and aspirations, you can cultivate greater self-belief and achieve your full potential.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
